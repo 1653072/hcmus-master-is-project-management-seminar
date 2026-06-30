@@ -1,0 +1,9 @@
+{
+  "name": "vendor-inhouse-pm-slides",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/split_and_build.mjs build",
+    "split": "node scripts/split_and_build.mjs split",
+    "test": "node scripts/test_slides.mjs"
+  }
+}

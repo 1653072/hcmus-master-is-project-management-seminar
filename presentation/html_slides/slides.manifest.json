@@ -1,0 +1,90 @@
+{
+  "total": 21,
+  "heroBackground": "radial-gradient(ellipse 90% 70% at 15% 95%, rgba(245, 124, 0, 0.4) 0%, transparent 55%), radial-gradient(ellipse 75% 55% at 85% 15%, rgba(21, 101, 192, 0.55) 0%, transparent 50%), radial-gradient(ellipse 45% 35% at 55% 45%, rgba(46, 125, 50, 0.2) 0%, transparent 60%), linear-gradient(150deg, #0c1020 0%, #151b2e 45%, #0a1628 100%)",
+  "slides": [
+    {
+      "file": "slide_01.html",
+      "title": "SLIDE 1: Title"
+    },
+    {
+      "file": "slide_02.html",
+      "title": "SLIDE 2: Two worlds"
+    },
+    {
+      "file": "slide_03.html",
+      "title": "SECTION II: Vendor PM"
+    },
+    {
+      "file": "slide_04.html",
+      "title": "Vendor characteristics"
+    },
+    {
+      "file": "slide_05.html",
+      "title": "Vendor pros/cons"
+    },
+    {
+      "file": "slide_06.html",
+      "title": "Vendor tips"
+    },
+    {
+      "file": "slide_07.html",
+      "title": "SECTION III: In-house PM"
+    },
+    {
+      "file": "slide_08.html",
+      "title": "In-house characteristics"
+    },
+    {
+      "file": "slide_09.html",
+      "title": "Build/Buy"
+    },
+    {
+      "file": "slide_10.html",
+      "title": "In-house pros/cons"
+    },
+    {
+      "file": "slide_11.html",
+      "title": "SECTION IV: Comparison"
+    },
+    {
+      "file": "slide_12.html",
+      "title": "Comparison table"
+    },
+    {
+      "file": "slide_13.html",
+      "title": "SECTION V: Companies"
+    },
+    {
+      "file": "slide_14.html",
+      "title": "Companies"
+    },
+    {
+      "file": "slide_15.html",
+      "title": "SECTION VI: Career 2026"
+    },
+    {
+      "file": "slide_16.html",
+      "title": "Career overview"
+    },
+    {
+      "file": "slide_17.html",
+      "title": "Career path + salary"
+    },
+    {
+      "file": "slide_18.html",
+      "title": "Trends"
+    },
+    {
+      "file": "slide_19.html",
+      "title": "SECTION VII: Conclusion"
+    },
+    {
+      "file": "slide_20.html",
+      "title": "3 skills"
+    },
+    {
+      "file": "slide_21.html",
+      "title": "Quote & Thank you"
+    }
+  ]
+}
