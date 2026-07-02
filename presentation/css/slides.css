@@ -1186,19 +1186,30 @@
       box-sizing: border-box;
     }
 
+    .content-slide.slide-career .slide-inner {
+      padding: 0.7em 2em 0.75em;
+    }
+
     .career-cards {
-      gap: 1em;
-      align-items: start;
+      gap: 0.75em;
+      align-items: stretch;
+      width: 100%;
     }
 
     .content-slide.slide-career .slide-body {
       justify-content: flex-start;
-      gap: 0.2em;
-      flex: 0 1 auto;
+      gap: 0;
+      flex: 1 1 auto;
+      min-height: 0;
     }
 
     .content-slide.slide-career .slide-title-bar {
-      margin-bottom: 0.55em;
+      margin-bottom: 0.35em;
+    }
+
+    .content-slide.slide-career .slide-title-bar h2 {
+      font-size: 30px;
+      line-height: 1.15;
     }
 
     .content-slide.slide-career .slide-footer {
@@ -1213,26 +1224,31 @@
     }
 
     .career-cards .card {
-      height: auto;
-      min-height: 0;
-      padding: 0.8em 0.8em 0.8em;
-      gap: 0.2em;
+      padding: 0.65em 0.75em;
+      gap: 0.15em;
+      box-sizing: border-box;
+      align-self: stretch;
     }
 
     .career-cards .card h3 {
-      font-size: 19px;
-      margin-bottom: 0.1em;
+      font-size: 17px;
+      margin-bottom: 0.05em;
+      line-height: 1.2;
     }
 
     .career-cards .card ul.compact {
-      flex: none;
-      margin: 0 0 0.15em;
+      flex: 1 1 auto;
+      margin: 0;
     }
 
     .career-cards .card ul.compact li {
-      margin-bottom: 0.28em;
-      line-height: 1.38;
-      font-size: 17px;
+      margin-bottom: 0.2em;
+      line-height: 1.33;
+      font-size: 18px;
+    }
+
+    .career-cards .card ul.compact li:last-child {
+      margin-bottom: 0;
     }
 
     .career-cards .card .card-path {
